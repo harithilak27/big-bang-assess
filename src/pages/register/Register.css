@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.role{
+    width: 250px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+
+}
+.radio{
+    flex-direction: row;
+}
+.radio input{
+    height: auto;
+    width: fit-content;
+}
+input{
+    height: 30px;
+    width: 250px;
+}
